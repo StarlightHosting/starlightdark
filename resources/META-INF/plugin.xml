@@ -1,0 +1,28 @@
+<idea-plugin>
+  <id>net.starlighthosting.StarlightDark</id>
+  <name>StarlightDark</name>
+  <version>1.0</version>
+  <vendor email="support@starlighthosting.net" url="https://starlight.hosting">Starlight Hosting</vendor>
+
+  <description><![CDATA[Starlight Jetbrains theme]]></description>
+
+  <change-notes/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products-->
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="e77db48a-dd08-45ad-abe4-6c361e1087e1" path="/StarlightDark.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
