@@ -76,6 +76,8 @@
     "DragAndDrop.areaBackground": "#666666",
     "DragAndDrop.areaForeground": "foreground",
     "Editor.foreground": "foreground",
+    "Editor.background": "background",
+    "EditorPane.background": "background",
     "EditorPane.caretForeground": "foreground",
     "EditorPane.foreground": "foreground",
     "EditorPane.inactiveBackground": "paneBackground",
