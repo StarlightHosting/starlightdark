@@ -1,12 +1,23 @@
 <idea-plugin>
   <id>net.starlighthosting.StarlightDark</id>
   <name>StarlightDark</name>
-  <version>1.1</version>
-  <vendor email="support@starlighthosting.net" url="https://starlight.hosting">Starlight_Hosting</vendor>
+  <version>1.2</version>
+  <vendor email="support@starlighthosting.net" url="https://starlight.hosting">Starlight Hosting</vendor>
 
-  <description><![CDATA[Starlight Jetbrains theme]]></description>
+  <description><![CDATA[Starlight Jetbrains theme, Created by Starlight Hosting]]></description>
 
-  <change-notes>Made several items more clear</change-notes>
+  <change-notes><![CDATA[
+    <p>v1.2 <small>2021-04-11</small></p><ul>
+    <li>Improve visibility of active tab</li>
+    <li>Made text more readable in several cases</li>
+    </ul>
+    <p>v1.1 <small>2020-04-22</small></p><ul>
+    <li>Base for new editor theme</li>
+    </ul>
+    <p>v1.0 <small>2019-11-28</small></p><ul>
+    <li>First version released</li>
+    </ul>
+  ]]></change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="173.0"/>
