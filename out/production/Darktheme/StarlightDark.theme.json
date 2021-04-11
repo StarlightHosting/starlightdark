@@ -119,7 +119,7 @@
     "Notification.ToolWindow.errorForeground": "#e1e1e1",
     "Notification.ToolWindow.informativeBackground": "#088017",
     "Notification.ToolWindow.informativeBorderColor": "#088017",
-    "Notification.ToolWindow.informativeForeground": "darkerForeground",
+    "Notification.ToolWindow.informativeForeground": "foreground",
     "Notification.ToolWindow.warningBackground": "#372c0b",
     "Notification.ToolWindow.warningBorderColor": "accent",
     "Notification.ToolWindow.warningForeground": "#e1e1e1",
